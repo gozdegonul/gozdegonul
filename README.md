@@ -15,6 +15,14 @@
 
 ---
 
+## 🌟 What My GitHub Demonstrates
+✅ Hands-on coding ability across multiple languages
+✅ Progressive skill development through projects
+✅ Clean code practices with proper documentation
+✅ Problem-solving approach to development
+
+---
+
 ## 💡 Skills & Technologies
 
 ![C#](https://img.shields.io/badge/C%23-.NET-blue)
@@ -27,7 +35,15 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
 
 ---
-## 📂My Projects
+## 📂 Featured Projects
+Psychology-Tech Integration (Teknofest 2025 Semifinalist)
+-Web & Database Team Captain
+-Implemented responsive UI with Bootstrap/JavaScript
+-Optimized SQL queries for performance
+
+---
+
+## 📂 My Projects
 
 1. NoteBook Project : 
 A desktop notebook application developed with Java Swing that allows users to save their notes and view note details.
