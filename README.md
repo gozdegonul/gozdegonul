@@ -41,7 +41,9 @@
 
 ---
 ## 📂 Featured Projects
+
 Psychology-Tech Integration (Teknofest 2025 Semifinalist)
+
 -Web & Database Team Captain
 -Implemented responsive UI with Bootstrap/JavaScript
 -Optimized SQL queries for performance
