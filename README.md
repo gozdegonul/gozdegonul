@@ -27,6 +27,30 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
 
 ---
+## 📂My Projects
+
+1. NoteBook Project
+A desktop notebook application developed with Java Swing that allows users to save their notes and view note details.
+
+2. Eposta-System
+A C# .NET Framework email system called EasyMail, where users can send and receive emails with others using the program, and also set a profile picture.
+
+3. SQL-Query
+A C# .NET Framework program that acts as a custom SQL query system, allowing you to test table printing, adding, removing, and updating operations without opening an SQL program.
+
+4. Currency Exchange (Döviz-Alış-Satış)
+A cinema ticketing program integrated with real-time exchange rates from the Central Bank of Turkey. Users can create accounts, track their savings, see total Euro and Dollar holdings with their Turkish Lira equivalents, and perform buying/selling transactions.
+
+5. Election-System Program
+A C# program that displays the percentage of ballot boxes opened across provinces and districts, with real-time data entry capability.
+
+6. Student University Election System
+An election system where students and parents can register and users can create their preference lists.
+
+7. Java King of the Knowledge Game
+An interactive quiz game developed in Java, consisting of 3 different sections to test your knowledge.
+
+---
 
 ## 📫 Contact Me
 
