@@ -16,10 +16,15 @@
 ---
 
 ## 🌟 What My GitHub Demonstrates
+
 ✅ Hands-on coding ability across multiple languages
+
 ✅ Progressive skill development through projects
+
 ✅ Clean code practices with proper documentation
+
 ✅ Problem-solving approach to development
+
 
 ---
 
