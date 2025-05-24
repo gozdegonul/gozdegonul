@@ -45,8 +45,11 @@
 Psychology-Tech Integration (Teknofest 2025 Semifinalist)
 
 -Web & Database Team Captain
+
 -Implemented responsive UI with Bootstrap/JavaScript
+
 -Optimized SQL queries for performance
+
 
 ---
 
@@ -128,8 +131,10 @@ A C# program that displays the percentage of ballot boxes opened across province
 An election system where students and parents can register and users can create their preference lists.
 
 
-7. Java King of the Knowledge Game : 
+7. Java King of the Knowledge Game :
+   
 An interactive quiz game developed in Java, consisting of 3 different sections to test your knowledge.
+
 
 ---
 
