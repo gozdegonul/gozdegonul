@@ -29,25 +29,25 @@
 ---
 ## 📂My Projects
 
-1. NoteBook Project \n
+1. NoteBook Project : 
 A desktop notebook application developed with Java Swing that allows users to save their notes and view note details.
 
-3. Eposta-System
+3. Eposta-System : 
 A C# .NET Framework email system called EasyMail, where users can send and receive emails with others using the program, and also set a profile picture.
 
-4. SQL-Query
+4. SQL-Query : 
 A C# .NET Framework program that acts as a custom SQL query system, allowing you to test table printing, adding, removing, and updating operations without opening an SQL program.
 
-5. Currency Exchange (Döviz-Alış-Satış)
+5. Currency Exchange : 
 A cinema ticketing program integrated with real-time exchange rates from the Central Bank of Turkey. Users can create accounts, track their savings, see total Euro and Dollar holdings with their Turkish Lira equivalents, and perform buying/selling transactions.
 
-6. Election-System Program
+6. Election-System Program : 
 A C# program that displays the percentage of ballot boxes opened across provinces and districts, with real-time data entry capability.
 
-7. Student University Election System
+7. Student University Election System : 
 An election system where students and parents can register and users can create their preference lists.
 
-8. Java King of the Knowledge Game
+8. Java King of the Knowledge Game : 
 An interactive quiz game developed in Java, consisting of 3 different sections to test your knowledge.
 
 ---
