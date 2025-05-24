@@ -42,7 +42,7 @@
 ---
 ## 📂 Featured Projects
 
-Psychology-Tech Integration (Teknofest 2025 Semifinalist)
+**Psychology-Tech Integration (Teknofest 2025 Semifinalist)**
 
 -Web & Database Team Captain
 
