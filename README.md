@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Gözde Gönül!
 
-🎓 I'm a sophomore Computer Engineering student at Istanbul Aydın University with a strong GPA of 3.64. I build projects using **C# .NET Framework**, **Java**, **Web Technologies** (HTML, CSS, JavaScript, Bootstrap), and databases like **MSSQL** and **MySQL**.
+🎓 I'm a senior Computer Engineering student at Istanbul Aydın University with a strong GPA of 3.65. I build projects using **C# .NET Framework**, **Java**, **Web Technologies** (HTML, CSS, JavaScript, Bootstrap), and databases like **MSSQL** and **MySQL**.
 
 🚀 I'm an **Aspire Leaders Program** alum and participated in the **YEA training program**. I currently serve as the **team captain** for the Web and Database sections of a psychology-tech project that reached the semi-finals in **Teknofest 2025**.
 
